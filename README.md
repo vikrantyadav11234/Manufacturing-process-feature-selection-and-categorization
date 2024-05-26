@@ -8,10 +8,15 @@ Content
 Abstract: Data from a manufacturing process
 
 Data Set Characteristics: Multivariate
+
 Number of Instances: more than 1500
+
 Area: Medical/electronics
+
 Attribute Characteristics: Real
+
 Number of Attributes: more than 550
+
 Associated Tasks: Classification, Causal-Discovery
 
 A complex modern Ultrasound manufacturing, assembly and testing process is normally under consistent surveillance via the monitoring of signals/variables collected from sensors and or
